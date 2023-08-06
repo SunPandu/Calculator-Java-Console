@@ -21,7 +21,7 @@ public class Main
 				java.lang.System.out.print("nilan kedua b : ");
 				b = inputUser.nextInt();
 
-				java.lang.System.out.println("input user: " + a + " " + operator + " " + b);
+				java.lang.System.out.print("input user: " + a + " " + operator + " " + b);
 
 				switch(operator)
 				{
